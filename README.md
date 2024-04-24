@@ -167,7 +167,7 @@ def list_first_n_prime_numbers(n: int) -> list:
     ### END SOLUTION
 ```
 
-## 09. Define a function `swap_vowel_case(x)` which converts the input from upper-cased to lower-cased, and from lower-cased to upper-cased, respectively if the input is a vowel.
+## 09. Define a function `swap_vowel_case()` which converts the input from upper-cased to lower-cased, and from lower-cased to upper-cased, respectively if the input is a vowel.
 
 ```python
 def swap_vowel_case(x: str) -> str:
@@ -198,7 +198,7 @@ def swap_vowel_case(x: str) -> str:
     ### END SOLUTION
 ```
 
-## 10. Define a function `swap_vowels_case_in_word(x)` which converts the vowels in a word from upper-cased to lower-cased, and from lower-cased to upper-cased, respectively.
+## 10. Define a function `swap_vowels_case_in_word()` which converts the vowels in a word from upper-cased to lower-cased, and from lower-cased to upper-cased, respectively.
 
 ```python
 def swap_vowels_case_in_word(x: str) -> str:
